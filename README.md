@@ -35,11 +35,11 @@ IntelliJ IDEA - development environment for Java
 Markdown
 HTML/CSS
 
-## Books
-//Testowanie oprogramowiania - Piotr Wicherski
+<!--## Books
+Testowanie oprogramowiania - Piotr Wicherski
 Zawód Tester - Radosław Smilgin
 e-book "ABC Testowania oprogramowania" Waldemar Szafraniec, Dorota Gabor
-e-book "Jak przeżyć rekrutacje na QA w czasie pandemii" Adam Gola//
+e-book "Jak przeżyć rekrutacje na QA w czasie pandemii" Adam Gola-->
 
 ## Blogs I read
 testerzy.pl
