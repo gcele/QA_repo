@@ -18,22 +18,22 @@ MySQL tworzenie i zarządzanie bazami danych (Udemy)
 Oracle Cloud Infrastructure Foundations in December 2022
 
 ## Tools
-Jira - bug tracker
-Trello, Azure Devops - project management
+- Jira - bug tracker
+- Trello, Azure Devops - project management
 *TestRail - test cases management
 *Rapid Reporter, Test & Feedback - used for exploratory testing
-Slack - for communication within the team
-Chrome DevTools - for testing and to improve bug reports
-Git, Git Bash, GitHub
+- Slack - for communication within the team
+- Chrome DevTools - for testing and to improve bug reports
+- Git, Git Bash, GitHub
 *MySQL - relational database management system
 *Postman - testing tool for REST API
 *Cucumber - software supporting behaviour-driven development
-Selenium IDE - tool use to support automated testing
-Selenium WebDriver - for automated testing of web applications
-Java - basics of Java language
-IntelliJ IDEA - development environment for Java
-Markdown
-HTML/CSS
+- Selenium IDE - tool use to support automated testing
+- Selenium WebDriver - for automated testing of web applications
+- Java - basics of Java language
+- IntelliJ IDEA - development environment for Java
+- Markdown
+- HTML/CSS
 
 <!--## Books
 Testowanie oprogramowiania - Piotr Wicherski
