@@ -5,35 +5,36 @@ My name is Gerald Celestine. I have recently embarked on a career change journey
 ## My Experience
 
 My experience varies from IT Support Specialist to software Development and Software Testing/QA.
-I my career I have participated in two projects where I was able to test software as a user. One of them was testing web-based ticketing system Rave 2.0 and the other concerned web-based application for label creation and maintenance Kallik. In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my experience. Bugs found by me was reported to supervisor using Excel file. Right now I am also active as a tester at Testbirds.
+I my career I have participated in two projects where I was able to test software as a user. One of them was testing web-based ticketing system Rave 2.0 and the other concerned web-based application for label creation and maintenance Kallik. In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my experience. Bugs found by me was reported to supervisor using Excel file. Right now I am  a Tester/Business Analyst at IBM.
 
 ## Courses
-Software tester course in Software Development Academy
-Konsola Deweloperska on szkoleniedlaqa.pl
-Jira od podstaw - zarządzanie projektami (Udemy)
-MySQL tworzenie i zarządzanie bazami danych (Udemy)
-6-day HTML/CSS Marathon from GoIT
+- The Complete 2022 Software Testing Bootcamp by T.Roshdy (Udemy)
+- The Complete 2023 Web Development Bootcamp by Dr. Angela Yu (Udemy)
+- Selenium WebDriver and Java - Learn Automation with Selenium by Ranga Karanam (Udemy)
+- Test Automation (IBM)
 
 ## Certificates
-Oracle Cloud Infrastructure Foundations in December 2022
+- Disciplined Agile Senior Scrum Master in October 2022
+- Oracle Cloud Infrastructure Foundations in December 2022
 
 ## Tools
 - Jira - bug tracker
 - Trello, Azure Devops - project management
-*TestRail - test cases management
-*Rapid Reporter, Test & Feedback - used for exploratory testing
-- Slack - for communication within the team
-- Chrome DevTools - for testing and to improve bug reports
-- Git, Git Bash, GitHub
-*MySQL - relational database management system
-*Postman - testing tool for REST API
-*Cucumber - software supporting behaviour-driven development
 - Selenium IDE - tool use to support automated testing
 - Selenium WebDriver - for automated testing of web applications
 - Java - basics of Java language
 - IntelliJ IDEA - development environment for Java
 - Markdown
 - HTML/CSS
+- Slack - for communication within the team
+- Chrome DevTools - for testing and to improve bug reports
+- Git, Git Bash, GitHub
+<!--TestRail - test cases management
+*Rapid Reporter, Test & Feedback - used for exploratory testing 
+*MySQL - relational database management system
+*Postman - testing tool for REST API
+*Cucumber - software supporting behaviour-driven development--> 
+
 
 <!--## Books
 Testowanie oprogramowiania - Piotr Wicherski
