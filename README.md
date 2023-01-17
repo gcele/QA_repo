@@ -43,16 +43,10 @@ e-book "ABC Testowania oprogramowania" Waldemar Szafraniec, Dorota Gabor
 e-book "Jak przeżyć rekrutacje na QA w czasie pandemii" Adam Gola-->
 
 ## Blogs I read
-testerzy.pl
-testerka.pl
-remigiuszbednarczyk.pl.pl
-wyszkolewas.com.pl
-IT groups on Facebook I follow
-Testowanie oprogramowania
-Tester oprogramowania - wsparcie na starcie
-Dare IT Community
-Czy IT jest dla mnie?
-My projects
+- https://www.softwaretestinghelp.com/
+- https://testingcurve.wordpress.com/
+- https://thinkingtester.com/
+<!-- #My projects
 
 ## Bugs
 
@@ -69,4 +63,4 @@ I have participated in 6-day Marathon with HTML/CSS conducted by GoIT. Each day 
 
 LINK to my tester CV made during Marathon
 
-REST API
+REST API -->
