@@ -1,9 +1,15 @@
-# PORTFOLIO
+# Portfolio
+- [About me](#about-me)
+- [My Experience](#my-experience)
+- [Courses](#courses)
+- [Certificates](#certificates)
+- [Tools](#tools)
+- [Blogs I read](#blogs-i-read)
+
 ## About me
 My name is Gerald Celestine. I have recently embarked on a career change journey in order to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. I believe that high quality is the bestselling point of services and products. Thanks to my diversified experience I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team. My international experience has also equipped me with valuable tools, such as open-mindedness and adaptability. In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
 
 ## My Experience
-
 My experience varies from IT Support Specialist to software Development and Software Testing/QA.
 I my career I have participated in two projects where I was able to test software as a user. One of them was testing web-based ticketing system Rave 2.0 and the other concerned web-based application for label creation and maintenance Kallik. In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my experience. Bugs found by me was reported to supervisor using Excel file. Right now I am  a Tester/Business Analyst at IBM.
 
