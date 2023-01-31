@@ -1,6 +1,5 @@
 # Portfolio
-- [About me](#about-me)
-<!-- - [My Experience](#my-experience)-->
+- [About me](#about-me)<!-- - [My Experience](#my-experience)-->
 - [Courses](#courses)
 - [Certificates](#certificates)
 - [Tools](#tools)
