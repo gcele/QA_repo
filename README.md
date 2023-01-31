@@ -6,7 +6,7 @@
 - [Blogs I read](#blogs-i-read)
 
 ## About me
-My name is Gerald Celestine. Currently, I am pursuing a career change to become a Software Tester. I am thrilled to have the opportunity to demonstrate my skills in this career path. In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. As a professional in this field, I am determined to demonstrate my skills and continue to develop them, because of this, I'm looking for opportunities in testing to continue to grow and evolve.
+My name is Gerald Celestine. Currently, I am pursuing a career change to become a Software Tester. I am thrilled to have the opportunity to demonstrate my skills in this career path. In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning and I will continue to update this repo. As a professional in this field, I am determined to demonstrate my skills and continue to develop them, because of this, I'm looking for opportunities in testing to continue to grow and evolve.
 
 <!-- ## My Experience
 My experience varies from IT Support Specialist to Software Development and Software Testing/QA.
