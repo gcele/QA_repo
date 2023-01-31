@@ -1,6 +1,6 @@
 # Portfolio
 - [About me](#about-me)
-- [My Experience](#my-experience)
+<!-- - [My Experience](#my-experience)-->
 - [Courses](#courses)
 - [Certificates](#certificates)
 - [Tools](#tools)
@@ -9,9 +9,9 @@
 ## About me
 My name is Gerald Celestine. Currently, I am pursuing a career change to become a Software Tester. I am thrilled to have the opportunity to demonstrate my skills in this career path. In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. As a professional in this field, I am determined to demonstrate my skills and continue to develop them, because of this, I'm looking for opportunities in testing to continue to grow and evolve.
 
-## My Experience
+<!-- ## My Experience
 My experience varies from IT Support Specialist to Software Development and Software Testing/QA.
-I my career I have participated in two projects where I was able to test software as a user. In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my experience. Bugs found by me was reported to supervisor using Excel file. Right now I am a Tester/Business Analyst at IBM.
+In my career I have participated in two projects where I was able to test software as a user. In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my experience. Bugs found by me was reported using JIRA.-->
 
 ## Courses
 - The Complete 2022 Software Testing Bootcamp by T.Roshdy (Udemy)
