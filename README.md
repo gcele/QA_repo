@@ -16,6 +16,7 @@ In my career I have participated in two projects where I was able to test softwa
 - The Complete 2022 Software Testing Bootcamp by T.Roshdy (Udemy)
 - The Complete 2023 Web Development Bootcamp by Dr. Angela Yu (Udemy)
 - Selenium WebDriver and Java - Learn Automation with Selenium by Ranga Karanam (Udemy)
+- Cypress Compete Masterclass by Raghav Pal
 - Test Automation (IBM)
 
 ## Certificates
