@@ -28,6 +28,7 @@ In my career I have participated in two projects where I was able to test softwa
 - Trello, Azure Devops - project management
 - Selenium IDE - tool use to support automated testing
 - Selenium WebDriver - for automated testing of web applications
+- Cypress
 - Java - basics of Java language
 - IntelliJ IDEA - development environment for Java
 - Markdown
