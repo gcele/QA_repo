@@ -53,6 +53,7 @@ e-book "Jak przeżyć rekrutacje na QA w czasie pandemii" Adam Gola-->
 - https://www.softwaretestinghelp.com/
 - https://testingcurve.wordpress.com/
 - https://thinkingtester.com/
+- https://www.testrail.com/blog/agile-qa-metrics/
 <!-- #My projects
 
 ## Bugs
